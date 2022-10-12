@@ -1,0 +1,16 @@
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\Primerprograma.exe
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\Primerprograma.deps.json
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\Primerprograma.runtimeconfig.json
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\Primerprograma.runtimeconfig.dev.json
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\Primerprograma.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\ref\Primerprograma.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\bin\Debug\net5.0\Primerprograma.pdb
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.csproj.AssemblyReference.cache
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.AssemblyInfoInputs.cache
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.AssemblyInfo.cs
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.csproj.CoreCompileInputs.cache
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\ref\Primerprograma.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.pdb
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\Primerprograma\obj\Debug\net5.0\Primerprograma.genruntimeconfig.cache

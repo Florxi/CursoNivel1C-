@@ -1,0 +1,16 @@
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\calculadora.exe
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\calculadora.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\bin\Debug\net5.0\calculadora.pdb
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.pdb
+C:\Users\fvg12\Desktop\Curso Nivel 1 Maxi Programa\calculadora\obj\Debug\net5.0\calculadora.genruntimeconfig.cache

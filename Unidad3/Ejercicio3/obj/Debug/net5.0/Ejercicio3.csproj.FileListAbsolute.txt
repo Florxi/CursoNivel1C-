@@ -1,0 +1,16 @@
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.exe
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.deps.json
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.json
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.dev.json
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.dll
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\ref\Ejercicio3.dll
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.pdb
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.AssemblyReference.cache
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfoInputs.cache
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfo.cs
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.dll
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio3.dll
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.pdb
+D:\Curso Nivel 1 Maxi Programa\Unidad3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.genruntimeconfig.cache
